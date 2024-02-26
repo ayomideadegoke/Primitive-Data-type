@@ -1,0 +1,14 @@
+print("Ay is Handsome")
+print('Ay is Handsome')
+look="Ay is Handsome"
+print(look )
+
+
+
+
+amount_paid =1000
+buyer="sis tolu"
+balance_received= 350
+cost_of_product=amount_paid - balance_received
+print(cost_of_product)
+print(buyer.title() , "recieves", balance_received, "change")
